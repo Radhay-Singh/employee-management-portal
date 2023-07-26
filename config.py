@@ -1,0 +1,6 @@
+customhost = "simplilearn-organization-2023.ci6uegycae0c.us-east-1.rds.amazonaws.com"
+customuser = "orgadmin"
+custompass = "orgaAm2023"
+customdb = "org_employee"
+custombucket = "employee-registration-data"
+customregion = "us-east-1"
